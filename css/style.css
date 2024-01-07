@@ -335,6 +335,8 @@ body {
     text-align: center;
     display: inline-block;
     position: relative;
+    width: 270px;
+    height: 50px;
 }
 
 .video-popup::before {
